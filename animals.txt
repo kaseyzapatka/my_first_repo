@@ -9,9 +9,5 @@ monkeys
 Pigs
 elphants
 apes
-<<<<<<< HEAD
-cats
-=======
 cats and dogs
 birds
->>>>>>> dbfadd46b3504ac137cbf267aad417c140b99906
